@@ -12,8 +12,6 @@
   "dependencies": {
     "express": "^4.18.2",
     "nodemon": "^2.0.22",
-    "parse-json": "^7.0.0",
-    "shell": "^0.5.1",
-    "trash": "^8.1.1"
+    "parse-json": "^7.0.0"
   }
 }
